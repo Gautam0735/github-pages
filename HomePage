@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movie & Web Series Downloader</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to Movie & Web Series Downloader</h1>
+  </header>
+
+  <section class="movie-list">
+    <h2>Featured Movies & Web Series</h2>
+    <div class="movie-item">
+      <img src="https://via.placeholder.com/150" alt="Movie Poster">
+      <div class="movie-info">
+        <h3>Movie Title 1</h3>
+        <p>Action, 2023</p>
+        <a href="download-link-1" class="download-btn">Download</a>
+      </div>
+    </div>
+
+    <div class="movie-item">
+      <img src="https://via.placeholder.com/150" alt="Movie Poster">
+      <div class="movie-info">
+        <h3>Movie Title 2</h3>
+        <p>Comedy, 2022</p>
+        <a href="download-link-2" class="download-btn">Download</a>
+      </div>
+    </div>
+
+    <!-- Add more movie items here -->
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Movie & Web Series Downloader. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
